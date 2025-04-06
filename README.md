@@ -1,1 +1,1 @@
-# divinlocks.github.io
+# https://divinlocks.vercel.app
