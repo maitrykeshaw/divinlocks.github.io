@@ -1,1 +1,1 @@
-# https://divinlocks.vercel.app
+# https://divinlocks.vercel.app/
