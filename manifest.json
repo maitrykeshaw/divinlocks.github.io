@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Divine Locks™ [Official Website] Get $1536 OFF + Free Shipping",
+  "short_name":"Divine Locks™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Divine Locks Complex is a dietary supplement that underpins the rebuilding of thicker, better, and more energetic hair.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
